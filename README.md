@@ -1,57 +1,170 @@
-<!-- HEADER -->
-<div align="center">
-  <img width="800" src="https://github.com/prathicksha-s/prathicksha-s/raw/main/assets/header.png" alt="Prathicksha S GitHub Banner"/>
-</div>
-
-<h1 align="center">Hey there 👋 I'm Prathicksha</h1>
-<h3 align="center">Software Engineer & AI Systems Builder</h3>
-
----
-
-## 👩‍💻 About Me
-
-I’m a Decision & Computing Science graduate focused on building **scalable backend systems** and **intelligent models**.  
-Driven by fundamentals, not trends. I make code that’s **clean, maintainable, and production-ready**.
-
-Right now my focus is:
-- Deepening mastery in **DSA & system design**
-- Building backend services with **Node.js & Java**
-- Exploring ML & Deep Learning foundations
-
----
-
-## 🛠 Tech & Tools
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+# PRATHICKSHA S
+
+### SOFTWARE ENGINEERING • DATA SCIENCE • AI SYSTEMS
+
+Building Intelligent, Scalable & Data-Driven Systems
+
 </div>
 
 ---
 
-## 🚀 Currently Learning
+# 👩‍💻 PROFESSIONAL SUMMARY
 
-- Advanced DSA (LeetCode / competitive style)
-- Clean architecture & backend patterns
-- Neural network optimization
-- Production deployment workflows
+I am an M.Sc. Decision & Computing Sciences student focused on building deep technical competence across:
+
+- Software Engineering
+- Data Science
+- Artificial Intelligence
+- Algorithmic & Quantitative Systems
+
+My approach is structured, analytical, and systems-oriented.
+
+I believe strong fundamentals in algorithms, databases, and architecture are the backbone of powerful AI and data systems.
 
 ---
 
-## 🔗 Connect with Me
+# 🧠 TECHNICAL IDENTITY
+
+I operate at the intersection of:
+
+Engineering Rigor + Statistical Thinking + Computational Intelligence
+
+Rather than limiting myself to one silo, I am developing competence across:
+
+• Backend Engineering  
+• Data Modeling  
+• Statistical Learning  
+• Numerical Optimization  
+• System-Level Thinking  
+
+---
+
+# 🎯 CURRENT DEVELOPMENT TRACK
+
+## 1️⃣ Algorithmic Depth
+- Advanced Data Structures
+- Problem Solving (LeetCode / Competitive style)
+- Time & Space Optimization
+- Pattern Recognition in Algorithms
+
+## 2️⃣ Backend & System Design
+- RESTful API Design
+- Modular Architecture
+- Clean Code Principles
+- Database Schema Design
+- Query Optimization
+
+## 3️⃣ Data Science & Analytics
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Hypothesis Testing
+- Regression & Classification
+- Clustering & PCA
+- Time Series Analysis
+- Performance Metrics & Model Evaluation
+
+## 4️⃣ AI & Machine Learning
+- Supervised & Unsupervised Learning
+- Optimization Techniques
+- Neural Network Fundamentals
+- Model Regularization
+- NLP Foundations
+- Model Deployment Concepts
+
+---
+
+# 🛠 TECHNOLOGY STACK
+
+## Languages
+- Python
+- Java
+- SQL
+- C (Foundational)
+
+## Backend
+- Node.js
+- Express.js
+- REST APIs
+- PostgreSQL
+- MySQL
+
+## Data & ML Tools
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
+- Streamlit
+
+## Frontend
+- React
+- HTML
+- CSS
+
+---
+
+# 📊 DATA THINKING FRAMEWORK
+
+When solving analytical problems, I follow:
+
+1. Problem Definition  
+2. Data Understanding  
+3. Cleaning & Preprocessing  
+4. Feature Engineering  
+5. Model Selection  
+6. Evaluation & Validation  
+7. Optimization  
+8. Deployment Strategy  
+
+I aim to move from notebooks to production-ready systems.
+
+---
+
+# 🏗 ENGINEERING PRINCIPLES
+
+I design systems that are:
+
+- Scalable
+- Reliable
+- Maintainable
+- Efficient
+- Performance-Aware
+- Data-Driven
+
+Code is not just written — it is engineered.
+
+---
+
+# 📈 GITHUB ANALYTICS
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/prathicksha-s-2b1b58291" target="_blank">LinkedIn</a> •
-  <a href="https://prathicksha-portfolio.vercel.app/" target="_blank">Portfolio</a> •
-  <a href="mailto:prathicksha.selvaraj@gmail.com">Email</a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathicksha-s&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathicksha-s&layout=compact&theme=tokyonight" />
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathicksha-s&color=blue" alt="Profile Views" />
-</div>
+# 🌐 CONNECT
+
+LinkedIn: https://www.linkedin.com/in/prathicksha-s-2b1b58291  
+Portfolio: https://prathicksha-portfolio.vercel.app/  
+Email: prathicksha.selvaraj@gmail.com  
+
+---
+
+# 🚀 LONG-TERM VISION
+
+To build intelligent systems where:
+
+Software Engineering meets  
+Data Science meets  
+AI/ML meets  
+Quantitative Decision Intelligence
+
+I am focused on compounding skills — not chasing trends.
